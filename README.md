@@ -5,5 +5,5 @@ WIP Club Penguin server emulator written in C#. The goal is to create a user-fri
 * MySQLData
 * MetroFramework
 
-* Preview
+# Preview
 ![alt text](https://raw.githubusercontent.com/mh9924/mCPPS/master/screens/mcpps1.png)
