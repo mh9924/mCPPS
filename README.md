@@ -11,5 +11,5 @@ Rewrite of mCPPS in C#. The goal is to create a user-friendly GUI-based source t
    * MSBuild or
    * Visual Studio
 
-# Preview
+# Screenshots
 ![alt text](https://raw.githubusercontent.com/mh9924/mCPPS/master/screens/mCPPS1.png)
