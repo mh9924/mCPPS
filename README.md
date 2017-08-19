@@ -6,7 +6,8 @@ Rewrite of mCPPS in C#. The goal is to create a user-friendly GUI-based source t
 * Dependencies
    * MySQLData
    * MetroFramework
-* Compile
+   
+* Compiling
    * MSBuild or
    * Visual Studio
 
