@@ -4,6 +4,7 @@ Rewrite of mCPPS in C#. The goal is to create a user-friendly GUI-based source t
 # Requirements
 * MySQLData
 * MetroFramework
+* MSBuild or Visual Studio to compile
 
 # Preview
 ![alt text](https://raw.githubusercontent.com/mh9924/mCPPS/master/screens/mCPPS1.png)
