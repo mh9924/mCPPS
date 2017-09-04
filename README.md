@@ -1,5 +1,5 @@
 # mCPPS
-Rewrite of mCPPS in C#. The goal is to create a user-friendly GUI-based source that anyone can use to create a server, with the emulator, SQlite (currently MySQL), and an auto-setup HTTP server (for the Flash client) integrated.
+Rewrite of Matt's CPPS in C#. The goal is to create a user-friendly GUI-based source that anyone can use to create a server, with the emulator, SQlite (currently MySQL), and an auto-setup HTTP server (for the Flash client) integrated.
 
 # Requirements
 
